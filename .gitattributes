@@ -1,0 +1,2 @@
+naive_bayes.sdf filter=lfs diff=lfs merge=lfs -text
+naive_bayes.sdf.csv filter=lfs diff=lfs merge=lfs -text
